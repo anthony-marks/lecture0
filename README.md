@@ -7,3 +7,6 @@ git status
 
 Store credentials:
 https://help.github.com/articles/caching-your-github-password-in-git/
+
+how-to-solve-the-github-error-fatal-httprequestexception-encountered:
+https://codeshare.co.uk/blog/how-to-solve-the-github-error-fatal-httprequestexception-encountered/
